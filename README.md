@@ -10,6 +10,10 @@ My experience spans requirements analysis, technical documentation, software val
 
 I value pragmatic engineering, traceability, maintainability and documentation as part of the software itself.
 
+## Featured project
+
+**[StewardArc](https://github.com/rodolforsj/stewardarc-access-governance)** — an engineering case study in access request governance, developed from requirements and traceability through architecture decision records to a tested backend with continuous integration. First public baseline: [v0.1.0](https://github.com/rodolforsj/stewardarc-access-governance/releases/tag/v0.1.0).
+
 ## Areas of work
 
 - Software & Systems Analysis
